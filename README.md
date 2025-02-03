@@ -27,7 +27,7 @@ Leveraged statistical analysis to identify key sales influencers, enabling the p
 
 
 ## Features
-Bar Graphs:
-Used to represent the sales distribution across different car models or years. The bar graph allows for a quick visual comparison of car sales and performance, helping to identify top-selling models in which year.
+Decomposition Tree:
+The decomposition tree provides a dynamic and interactive way to break down sales data by multiple dimensions (such as model type, year, region, or customer demographics). 
+-![Decomposition Tree](https://github.com/user-attachments/assets/ea356223-c12c-414f-af62-bde9bf67c5a9)
 
--<a herps="https://github.com/QueryKnight/Sales-Data-Analysis-Dashboard/blob/main/Claasic%20Car%20Dashboard.png">Bar Graph<a/>
