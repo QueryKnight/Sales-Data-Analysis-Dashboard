@@ -5,11 +5,17 @@ The "Classic Car Sales Dashboard" is a comprehensive interactive Power BI dashbo
 
 ## Data Sources
 The dataset used for this project includes historical sales data of classic cars, comprising variables like:
+
 Car Model: Different classic car brands and models.
+
 Sales Volume: The number of units sold.
+
 Sales Date: The date of sale for time-based analysis.
+
 Region(: Geographic region of the sale.
+
 Customer Demographics: Information such as age, income, etc.
+
 Price: The selling price of each car.
 
 ## DashBoard
