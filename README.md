@@ -12,6 +12,10 @@ Region(: Geographic region of the sale.
 Customer Demographics: Information such as age, income, etc.
 Price: The selling price of each car.
 
+## DashBoard
+![Claasic Car Dashboard](https://github.com/user-attachments/assets/f7f27ef8-0a19-45b7-8e3f-62d64c6e73d0)DashBoard.
+
+
 ## Technical Skills Developed
 Data Preparation & Transformation:
 Using Power BI's data transformation tools (Power Query), I cleaned and prepared the raw sales data to make it suitable for analysis.
@@ -28,6 +32,20 @@ Leveraged statistical analysis to identify key sales influencers, enabling the p
 
 ## Features
 Decomposition Tree:
+
 The decomposition tree provides a dynamic and interactive way to break down sales data by multiple dimensions (such as model type, year, region, or customer demographics). 
 -![Decomposition Tree](https://github.com/user-attachments/assets/ea356223-c12c-414f-af62-bde9bf67c5a9)
+
+
+Key Influencer:
+
+The key influencer visualization was used to determine what factors most significantly affect car sales it  helps in predicting future trends and making strategic decisions.
+-![Key Influemcer](https://github.com/user-attachments/assets/c7a4f146-6435-4eea-a22d-7fc724cb5727)
+
+line chart:
+
+analyzing the trends, users can identify patterns and make forecasts for upcoming months or years.
+![Line Chart](https://github.com/user-attachments/assets/d4a0a4eb-4a2e-4eb9-8a47-0663a984fc4b)
+
+
 
