@@ -13,7 +13,7 @@ Customer Demographics: Information such as age, income, etc.
 Price: The selling price of each car.
 
 ## DashBoard
-![Claasic Car Dashboard](https://github.com/user-attachments/assets/f7f27ef8-0a19-45b7-8e3f-62d64c6e73d0)DashBoard.
+-<a herp="https://github.com/user-attachments/assets/f7f27ef8-0a19-45b7-8e3f-62d64c6e73d0">DashBoard.
 
 
 ## Technical Skills Developed
