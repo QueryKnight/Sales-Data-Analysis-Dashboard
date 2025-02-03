@@ -30,4 +30,4 @@ Leveraged statistical analysis to identify key sales influencers, enabling the p
 Bar Graphs:
 Used to represent the sales distribution across different car models or years. The bar graph allows for a quick visual comparison of car sales and performance, helping to identify top-selling models in which year.
 
--<a herp=https://github.com/QueryKnight/Sales-Data-Analysis-Dashboard/blob/main/Claasic%20Car%20Dashboard.png>Bar Graph.
+-<a herps="https://github.com/QueryKnight/Sales-Data-Analysis-Dashboard/blob/main/Claasic%20Car%20Dashboard.png">Bar Graph.
